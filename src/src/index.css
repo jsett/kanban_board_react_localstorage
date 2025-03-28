@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-md-editor {
+  background-color: white !important;
+}
+
+.w-md-editor-text {
+  font-size: 14px !important;
+}
+
+.wmde-markdown {
+  background-color: white !important;
+}
